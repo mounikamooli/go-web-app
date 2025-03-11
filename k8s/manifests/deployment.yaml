@@ -18,6 +18,5 @@ spec:
       containers:
       - name: go-web-app
         image: mounikamooli/go-web-app:v1
-        restartPolicy: Never
         ports:
         - containerPort: 8080
