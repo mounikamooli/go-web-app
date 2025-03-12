@@ -8,7 +8,7 @@ image:
   repository: mounikamooli/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "13806208644"
+  tag: "13806484239"
 
 ingress:
   enabled: false
