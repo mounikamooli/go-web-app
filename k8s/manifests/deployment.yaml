@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: mounikamooli/go-web-app:v1
+        image: mounikamooli/go-web-app:v3
         ports:
         - containerPort: 8080
